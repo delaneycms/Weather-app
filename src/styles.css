@@ -1,0 +1,31 @@
+body {
+  background-color: lightgray;
+  font-family: "Montserrat", sans-serif;
+}
+
+.container {
+  border-radius: 10px;
+  margin: 0 auto;
+  padding: 2em;
+  background-color: paleturquoise;
+}
+
+.search-container {
+  background-color: palevioletred;
+}
+
+.city-time-container {
+  background-color: aliceblue;
+}
+
+.current-stats-container {
+  background-color: beige;
+}
+
+.forecast-container {
+  background-color: bisque;
+}
+
+.footer {
+  background-color: lightcyan;
+}
